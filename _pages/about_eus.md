@@ -4,7 +4,7 @@ title: niri buruz
 permalink: /eus/
 subtitle: <a href='https://qusoft.org/'>QuSoft</a> eta <a href='https://mns-research.nl/'>MNS, University of Amsterdam</a>, Herbehereak.
 nav: true
-nav_order: 10
+nav_order: 2
 
 profile:
   align: right
