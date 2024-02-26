@@ -6,7 +6,7 @@ subtitle: <a href='https://qusoft.org/'>QuSoft</a> and <a href='https://mns-rese
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: argazkia.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
