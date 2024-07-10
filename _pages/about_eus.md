@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Matematikako doktoregaia naiz, laugarren (azken!) urtean, 2025eko irailean graduatzeko asmoa dut. Nire zuzendariak [Florian Speelman](https://www.cwi.nl/en/people/florian-speelman/), [Paola Grosso](https://staff.fnwi.uva.nl/p.grosso/) eta [Christian Schaffner](https://staff.science.uva.nl/c.schaffner/) dira. [Centrum Wiskunde & Informatica-n](https://www.cwi.nl) aurki nazakezue.
+Matematikako doktoregaia naiz, laugarren (azken!) urtean, 2025eko uztailean graduatzeko asmoa dut. Nire zuzendariak [Florian Speelman](https://www.cwi.nl/en/people/florian-speelman/), [Paola Grosso](https://staff.fnwi.uva.nl/p.grosso/) eta [Christian Schaffner](https://staff.science.uva.nl/c.schaffner/) dira. [Centrum Wiskunde & Informatica-n](https://www.cwi.nl) aurki nazakezue.
 
 Kriptografia kuantikoa interesatzen zait, oro har; informazio-teoria erabiliz zeregin kriptografikoen arteko erlazioak aurkitzea gustatzen zait, segurtasuna definitzeko modu ezberdinak aztertzea, funtzionalitate berriez hausnartzea...
