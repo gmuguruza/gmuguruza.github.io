@@ -19,5 +19,3 @@ social: true # includes social icons at the bottom of the page
 I'm a fourth (last!) year PhD candidate supervised by [Florian Speelman](https://www.cwi.nl/en/people/florian-speelman/), [Paola Grosso](https://staff.fnwi.uva.nl/p.grosso/) and [Christian Schaffner](https://staff.science.uva.nl/c.schaffner/), expected to graduate in July 2025. My office is located at [Centrum Wiskunde & Informatica](https://www.cwi.nl). 
 
 I'm interested broadly in quantum cryptography; I like finding relations between cryptographic tasks using information theory, thinking about security, new functionalities...
-
-*Note that I have two surnames, as is custom in the southern [Euskal Herria](https://en.wikipedia.org/wiki/Basque_Country_(greater_region)); taking the first surname of each parent. But since people get confused all the time, I decided to only sign articles with Muguruza.
